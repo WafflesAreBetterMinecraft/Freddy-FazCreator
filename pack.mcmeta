@@ -1,6 +1,10 @@
 {
     "pack": {
         "pack_format": 34,
+        "supported_formats": {
+            "min_inclusive": 34, 
+            "max_inclusive": 44
+        },
         "description": "Creator (Music Box) has a 10% chance to summon Freddy Fazbear"
     }
 }
