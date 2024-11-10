@@ -1,0 +1,46 @@
+{
+  "music_disc.creator_music_box": {
+    "sounds": [
+      {
+        "name": "records/creator_music_box",
+        "stream": true
+      },
+      {
+        "name": "records/creator_music_box",
+        "stream": true
+      },
+      {
+        "name": "records/creator_music_box",
+        "stream": true
+      },
+      {
+        "name": "records/creator_music_box",
+        "stream": true
+      },
+      {
+        "name": "records/creator_music_box",
+        "stream": true
+      },
+      {
+        "name": "records/creator_music_box",
+        "stream": true
+      },
+      {
+        "name": "records/creator_music_box",
+        "stream": true
+      },
+      {
+        "name": "records/creator_music_box",
+        "stream": true
+      },
+      {
+        "name": "records/creator_music_box",
+        "stream": true
+      },
+      {
+        "name": "records/fnaf_music_box",
+        "stream": true
+      }
+    ]
+  }
+}
